@@ -1,0 +1,1 @@
+{"general": {"isBET": "0", "isInvert": "0", "isRefineBrainMask": "0"}, "qsm": {"reference_tissue": "Brain mask", "method": "MEDI", "wData": "[[1.0]]", "lambda": "[[1000.0]]", "percentage": 90, "zeropad": "[0 0 0]", "isSMV": 1, "radius": "[[1.0]]", "merit": 0, "isLambdaCSF": 0, "lambdaCSF": 100}}
