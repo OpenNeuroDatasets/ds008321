@@ -1,0 +1,10 @@
+{
+    "GeneratedBy": [
+        {
+            "Name": "spinalcordtoolbox: sct_deepseg graymatter -i chi_015_3D_OLD_mgre_5TEs_C3_11_e1.nii.gz -o chi_015_gm_msk.nii.gz",
+            "Version": "git-sr/qc-dev-c8e384aa3d7977d2eb14dc0976e99e4825eab986*",
+            "CodeURL": "https://github.com/spinalcordtoolbox/spinalcordtoolbox/blob/c8e384aa3d7977d2eb14dc0976e99e4825eab986/spinalcordtoolbox/scripts/sct_deepseg.py",
+            "ModelURL": "https://github.com/ivadomed/model-gm-contrast-region-agnostic/releases/download/r20250420/Dataset820_gm-seg.zip"
+        }
+    ]
+}
