@@ -1,22 +1,23 @@
 {
-  "BIDSVersion": "1.9.0",
-  "Name": "sc-qsm",
-  "Authors": [
-    "Sebastian Rios",
-    "Nilser Laines-Medina",
-    "Mathieu Boudreau",
-    "Anna Lebret",
-    "Julien Cohen-Adad",
-    "Maryam Seif",
-    "Eva Alonso-Ortiz"
-  ],
-  "DatasetType": "derivative",
-  "GeneratedBy": [
-    {"Name": "sc-qsm",
-    "Version": "0.alpha",
-    "Description": "A pipeline for spinal cord QSM with brain-recommended and spinal cord optimized algorithms"
-  }
-  ],
-  "DatasetDOI": "-",
-  "License": "-"
+    "BIDSVersion": "1.9.0",
+    "Name": "sc-qsm",
+    "Authors": [
+        "Sebastian Rios",
+        "Nilser Laines-Medina",
+        "Mathieu Boudreau",
+        "Anna Lebret",
+        "Julien Cohen-Adad",
+        "Maryam Seif",
+        "Eva Alonso-Ortiz"
+    ],
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "sc-qsm",
+            "Version": "0.alpha",
+            "Description": "A pipeline for spinal cord QSM with brain-recommended and spinal cord optimized algorithms"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008321.v1.0.0",
+    "License": "CC0"
 }
