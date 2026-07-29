@@ -1,0 +1,34 @@
+{
+  "participant_id": {
+    "Description": "Unique Participant ID",
+    "LongName": "Participant ID"
+  },
+  "age": {
+    "Description": "Participant age",
+    "LongName": "Participant age",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "Sex of the participant as reported by the participant",
+    "Levels": {
+      "M": "male",
+      "F": "female",
+      "O": "other"
+    }
+  },
+  "weight": {
+    "Description": "Weight of the participant as reported by the participant",
+    "Units": "kg"
+  },
+  "pathology": {
+    "Description": "The diagnosis of pathology of the participant",
+    "LongName": "Pathology name",
+    "Levels": {
+      "HC": "Healthy Control"
+    }
+  },
+  "institution": {
+    "Description": "Human-friendly institution name",
+    "LongName": "BIDS Institution ID"
+  }
+}
