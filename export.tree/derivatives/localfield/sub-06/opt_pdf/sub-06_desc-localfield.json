@@ -1,1 +1,0 @@
-{"general": {"isBET": "0", "isInvert": "0", "isRefineBrainMask": "0"}, "bfr": {"method": "PDF", "tol": "[[0.1]]", "iteration": "[[250.0]]", "padSize": "[[14.0]]", "refine_method": "None", "refine_order": 4, "erode_radius": 0, "erode_before_radius": 0}}
