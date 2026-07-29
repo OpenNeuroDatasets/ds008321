@@ -18,6 +18,6 @@
             "Description": "A pipeline for spinal cord QSM with brain-recommended and spinal cord optimized algorithms"
         }
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008321.v1.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008321.v1.0.2",
     "License": "CC0"
 }
