@@ -1,1 +1,0 @@
-{"general": {"isBET": "0", "isInvert": "0", "isRefineBrainMask": "0"}, "bfr": {"method": "SHARP", "radius": "[[4.0]]", "threshold": "[[0.03]]", "refine_order": 4, "erode_radius": 0, "erode_before_radius": 0}}
