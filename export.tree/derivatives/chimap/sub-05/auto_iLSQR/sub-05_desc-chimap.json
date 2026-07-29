@@ -1,0 +1,1 @@
+{"general": {"isBET": "0", "isInvert": "0", "isRefineBrainMask": "0"}, "qsm": {"reference_tissue": "Brain mask", "method": "iLSQR", "tol": "[[1e-06]]", "maxiter": "[[57.0]]", "lambda": "[[0.13]]", "optimise": "[[1.0]]"}}

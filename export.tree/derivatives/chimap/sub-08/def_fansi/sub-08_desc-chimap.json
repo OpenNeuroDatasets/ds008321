@@ -1,0 +1,1 @@
+{"general": {"isBET": "0", "isInvert": "0", "isRefineBrainMask": "0"}, "qsm": {"reference_tissue": "Brain mask", "method": "FANSI", "tol": "[[0.1]]", "maxiter": "[[150.0]]", "lambda": "[[0.0002]]", "mu1": "[[0.02]]", "mu2": "[[1.0]]", "solver": "Non-linear", "constraint": "TV", "gradient_mode": "L1 norm", "isGPU": 0, "isWeakHarmonic": 0}}
